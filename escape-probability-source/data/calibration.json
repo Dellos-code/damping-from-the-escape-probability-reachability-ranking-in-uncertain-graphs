@@ -1,0 +1,496 @@
+{
+ "rows": [
+  {
+   "topology": "er",
+   "lo": 0.01,
+   "hi": 0.05,
+   "seed": 11,
+   "mean_pesc": 0.15755397209304145,
+   "alpha_opt": 0.6,
+   "rho_opt": 0.999084249084249
+  },
+  {
+   "topology": "er",
+   "lo": 0.01,
+   "hi": 0.05,
+   "seed": 12,
+   "mean_pesc": 0.14823348427656216,
+   "alpha_opt": 0.55,
+   "rho_opt": 0.9989468864468863
+  },
+  {
+   "topology": "er",
+   "lo": 0.01,
+   "hi": 0.05,
+   "seed": 13,
+   "mean_pesc": 0.15483480001537012,
+   "alpha_opt": 0.6,
+   "rho_opt": 0.9994047619047619
+  },
+  {
+   "topology": "er",
+   "lo": 0.03,
+   "hi": 0.1,
+   "seed": 11,
+   "mean_pesc": 0.314209403430454,
+   "alpha_opt": 0.65,
+   "rho_opt": 0.9956501831501829
+  },
+  {
+   "topology": "er",
+   "lo": 0.03,
+   "hi": 0.1,
+   "seed": 12,
+   "mean_pesc": 0.2952702119387991,
+   "alpha_opt": 0.65,
+   "rho_opt": 0.9981227106227105
+  },
+  {
+   "topology": "er",
+   "lo": 0.03,
+   "hi": 0.1,
+   "seed": 13,
+   "mean_pesc": 0.3044565124497136,
+   "alpha_opt": 0.65,
+   "rho_opt": 0.9979395604395603
+  },
+  {
+   "topology": "er",
+   "lo": 0.07,
+   "hi": 0.2,
+   "seed": 11,
+   "mean_pesc": 0.5493033136789263,
+   "alpha_opt": 0.85,
+   "rho_opt": 0.9903388278388278
+  },
+  {
+   "topology": "er",
+   "lo": 0.07,
+   "hi": 0.2,
+   "seed": 12,
+   "mean_pesc": 0.5196742827705623,
+   "alpha_opt": 0.8,
+   "rho_opt": 0.9806776556776557
+  },
+  {
+   "topology": "er",
+   "lo": 0.07,
+   "hi": 0.2,
+   "seed": 13,
+   "mean_pesc": 0.5297337310765193,
+   "alpha_opt": 0.85,
+   "rho_opt": 0.9938644688644689
+  },
+  {
+   "topology": "er",
+   "lo": 0.15,
+   "hi": 0.35,
+   "seed": 11,
+   "mean_pesc": 0.780454464885239,
+   "alpha_opt": 1.0,
+   "rho_opt": 0.9610347985347983
+  },
+  {
+   "topology": "er",
+   "lo": 0.15,
+   "hi": 0.35,
+   "seed": 12,
+   "mean_pesc": 0.7481188573311066,
+   "alpha_opt": 0.95,
+   "rho_opt": 0.971474358974359
+  },
+  {
+   "topology": "er",
+   "lo": 0.15,
+   "hi": 0.35,
+   "seed": 13,
+   "mean_pesc": 0.7514427921260198,
+   "alpha_opt": 0.95,
+   "rho_opt": 0.9606684981684981
+  },
+  {
+   "topology": "er",
+   "lo": 0.25,
+   "hi": 0.5,
+   "seed": 11,
+   "mean_pesc": 0.9031668906360243,
+   "alpha_opt": 1.0,
+   "rho_opt": 0.9331501831501832
+  },
+  {
+   "topology": "er",
+   "lo": 0.25,
+   "hi": 0.5,
+   "seed": 12,
+   "mean_pesc": 0.8787023322155263,
+   "alpha_opt": 1.0,
+   "rho_opt": 0.917811355311355
+  },
+  {
+   "topology": "er",
+   "lo": 0.25,
+   "hi": 0.5,
+   "seed": 13,
+   "mean_pesc": 0.8732994324110521,
+   "alpha_opt": 1.0,
+   "rho_opt": 0.9283882783882783
+  },
+  {
+   "topology": "er",
+   "lo": 0.4,
+   "hi": 0.7,
+   "seed": 11,
+   "mean_pesc": 0.9700858972197556,
+   "alpha_opt": 1.0,
+   "rho_opt": 0.7971153846153846
+  },
+  {
+   "topology": "er",
+   "lo": 0.4,
+   "hi": 0.7,
+   "seed": 12,
+   "mean_pesc": 0.960305279427882,
+   "alpha_opt": 1.0,
+   "rho_opt": 0.8259615384615383
+  },
+  {
+   "topology": "er",
+   "lo": 0.4,
+   "hi": 0.7,
+   "seed": 13,
+   "mean_pesc": 0.9472274090959523,
+   "alpha_opt": 1.0,
+   "rho_opt": 0.7847985347985348
+  },
+  {
+   "topology": "ba",
+   "lo": 0.01,
+   "hi": 0.05,
+   "seed": 11,
+   "mean_pesc": 0.14612160330116392,
+   "alpha_opt": 0.6,
+   "rho_opt": 0.9991300366300366
+  },
+  {
+   "topology": "ba",
+   "lo": 0.01,
+   "hi": 0.05,
+   "seed": 12,
+   "mean_pesc": 0.151401817227717,
+   "alpha_opt": 0.6,
+   "rho_opt": 0.9994047619047619
+  },
+  {
+   "topology": "ba",
+   "lo": 0.01,
+   "hi": 0.05,
+   "seed": 13,
+   "mean_pesc": 0.1589374646362271,
+   "alpha_opt": 0.6,
+   "rho_opt": 0.9983516483516482
+  },
+  {
+   "topology": "ba",
+   "lo": 0.03,
+   "hi": 0.1,
+   "seed": 11,
+   "mean_pesc": 0.28498141397059706,
+   "alpha_opt": 0.7,
+   "rho_opt": 0.9956501831501829
+  },
+  {
+   "topology": "ba",
+   "lo": 0.03,
+   "hi": 0.1,
+   "seed": 12,
+   "mean_pesc": 0.2944782267551812,
+   "alpha_opt": 0.7,
+   "rho_opt": 0.9943681318681318
+  },
+  {
+   "topology": "ba",
+   "lo": 0.03,
+   "hi": 0.1,
+   "seed": 13,
+   "mean_pesc": 0.30437437751810176,
+   "alpha_opt": 0.7,
+   "rho_opt": 0.9957417582417581
+  },
+  {
+   "topology": "ba",
+   "lo": 0.07,
+   "hi": 0.2,
+   "seed": 11,
+   "mean_pesc": 0.48999612741188303,
+   "alpha_opt": 0.9,
+   "rho_opt": 0.981043956043956
+  },
+  {
+   "topology": "ba",
+   "lo": 0.07,
+   "hi": 0.2,
+   "seed": 12,
+   "mean_pesc": 0.5056648650082861,
+   "alpha_opt": 0.9,
+   "rho_opt": 0.9894688644688644
+  },
+  {
+   "topology": "ba",
+   "lo": 0.07,
+   "hi": 0.2,
+   "seed": 13,
+   "mean_pesc": 0.5157972373636808,
+   "alpha_opt": 0.9,
+   "rho_opt": 0.9801739926739926
+  },
+  {
+   "topology": "ba",
+   "lo": 0.15,
+   "hi": 0.35,
+   "seed": 11,
+   "mean_pesc": 0.7076926390459481,
+   "alpha_opt": 0.95,
+   "rho_opt": 0.957051282051282
+  },
+  {
+   "topology": "ba",
+   "lo": 0.15,
+   "hi": 0.35,
+   "seed": 12,
+   "mean_pesc": 0.7247364655344026,
+   "alpha_opt": 0.95,
+   "rho_opt": 0.9792582417582417
+  },
+  {
+   "topology": "ba",
+   "lo": 0.15,
+   "hi": 0.35,
+   "seed": 13,
+   "mean_pesc": 0.7297273044497743,
+   "alpha_opt": 0.95,
+   "rho_opt": 0.9528388278388277
+  },
+  {
+   "topology": "ba",
+   "lo": 0.25,
+   "hi": 0.5,
+   "seed": 11,
+   "mean_pesc": 0.8486371379315271,
+   "alpha_opt": 1.0,
+   "rho_opt": 0.973168498168498
+  },
+  {
+   "topology": "ba",
+   "lo": 0.25,
+   "hi": 0.5,
+   "seed": 12,
+   "mean_pesc": 0.861168013637416,
+   "alpha_opt": 1.0,
+   "rho_opt": 0.9600274725274726
+  },
+  {
+   "topology": "ba",
+   "lo": 0.25,
+   "hi": 0.5,
+   "seed": 13,
+   "mean_pesc": 0.8623469348565516,
+   "alpha_opt": 1.0,
+   "rho_opt": 0.9479395604395603
+  },
+  {
+   "topology": "ba",
+   "lo": 0.4,
+   "hi": 0.7,
+   "seed": 11,
+   "mean_pesc": 0.9504065642699056,
+   "alpha_opt": 1.0,
+   "rho_opt": 0.9455523816971205
+  },
+  {
+   "topology": "ba",
+   "lo": 0.4,
+   "hi": 0.7,
+   "seed": 12,
+   "mean_pesc": 0.9556916591385152,
+   "alpha_opt": 1.0,
+   "rho_opt": 0.9189375097810445
+  },
+  {
+   "topology": "ba",
+   "lo": 0.4,
+   "hi": 0.7,
+   "seed": 13,
+   "mean_pesc": 0.956011765273825,
+   "alpha_opt": 1.0,
+   "rho_opt": 0.9120953855593962
+  },
+  {
+   "topology": "grid",
+   "lo": 0.01,
+   "hi": 0.05,
+   "seed": 11,
+   "mean_pesc": 0.09478172974225209,
+   "alpha_opt": 0.5,
+   "rho_opt": 0.998992673992674
+  },
+  {
+   "topology": "grid",
+   "lo": 0.01,
+   "hi": 0.05,
+   "seed": 12,
+   "mean_pesc": 0.10372029136605151,
+   "alpha_opt": 0.55,
+   "rho_opt": 0.9996794871794871
+  },
+  {
+   "topology": "grid",
+   "lo": 0.01,
+   "hi": 0.05,
+   "seed": 13,
+   "mean_pesc": 0.10696050511167926,
+   "alpha_opt": 0.55,
+   "rho_opt": 0.9994963369963369
+  },
+  {
+   "topology": "grid",
+   "lo": 0.03,
+   "hi": 0.1,
+   "seed": 11,
+   "mean_pesc": 0.1990244270930139,
+   "alpha_opt": 0.6,
+   "rho_opt": 0.9983974358974358
+  },
+  {
+   "topology": "grid",
+   "lo": 0.03,
+   "hi": 0.1,
+   "seed": 12,
+   "mean_pesc": 0.21312787463273175,
+   "alpha_opt": 0.6,
+   "rho_opt": 0.9994963369963369
+  },
+  {
+   "topology": "grid",
+   "lo": 0.03,
+   "hi": 0.1,
+   "seed": 13,
+   "mean_pesc": 0.21846380165214113,
+   "alpha_opt": 0.55,
+   "rho_opt": 0.9973901098901098
+  },
+  {
+   "topology": "grid",
+   "lo": 0.07,
+   "hi": 0.2,
+   "seed": 11,
+   "mean_pesc": 0.38031545228186425,
+   "alpha_opt": 0.65,
+   "rho_opt": 0.9968406593406592
+  },
+  {
+   "topology": "grid",
+   "lo": 0.07,
+   "hi": 0.2,
+   "seed": 12,
+   "mean_pesc": 0.4013491873432373,
+   "alpha_opt": 0.65,
+   "rho_opt": 0.9967948717948718
+  },
+  {
+   "topology": "grid",
+   "lo": 0.07,
+   "hi": 0.2,
+   "seed": 13,
+   "mean_pesc": 0.41008494631591874,
+   "alpha_opt": 0.65,
+   "rho_opt": 0.994459706959707
+  },
+  {
+   "topology": "grid",
+   "lo": 0.15,
+   "hi": 0.35,
+   "seed": 11,
+   "mean_pesc": 0.6117010954237542,
+   "alpha_opt": 0.8,
+   "rho_opt": 0.9848901098901098
+  },
+  {
+   "topology": "grid",
+   "lo": 0.15,
+   "hi": 0.35,
+   "seed": 12,
+   "mean_pesc": 0.6334783116474736,
+   "alpha_opt": 0.8,
+   "rho_opt": 0.989423076923077
+  },
+  {
+   "topology": "grid",
+   "lo": 0.15,
+   "hi": 0.35,
+   "seed": 13,
+   "mean_pesc": 0.6441590709798525,
+   "alpha_opt": 0.85,
+   "rho_opt": 0.9883699633699633
+  },
+  {
+   "topology": "grid",
+   "lo": 0.25,
+   "hi": 0.5,
+   "seed": 11,
+   "mean_pesc": 0.7840073009608637,
+   "alpha_opt": 0.95,
+   "rho_opt": 0.9309065934065933
+  },
+  {
+   "topology": "grid",
+   "lo": 0.25,
+   "hi": 0.5,
+   "seed": 12,
+   "mean_pesc": 0.8005841424690727,
+   "alpha_opt": 0.95,
+   "rho_opt": 0.9759157509157508
+  },
+  {
+   "topology": "grid",
+   "lo": 0.25,
+   "hi": 0.5,
+   "seed": 13,
+   "mean_pesc": 0.8106322942469004,
+   "alpha_opt": 0.95,
+   "rho_opt": 0.9668040293040292
+  },
+  {
+   "topology": "grid",
+   "lo": 0.4,
+   "hi": 0.7,
+   "seed": 11,
+   "mean_pesc": 0.921423468563801,
+   "alpha_opt": 0.95,
+   "rho_opt": 0.7201007326007326
+  },
+  {
+   "topology": "grid",
+   "lo": 0.4,
+   "hi": 0.7,
+   "seed": 12,
+   "mean_pesc": 0.9297691544653802,
+   "alpha_opt": 1.0,
+   "rho_opt": 0.9048076923076922
+  },
+  {
+   "topology": "grid",
+   "lo": 0.4,
+   "hi": 0.7,
+   "seed": 13,
+   "mean_pesc": 0.9372502367861905,
+   "alpha_opt": 1.0,
+   "rho_opt": 0.9353937728937729
+  }
+ ],
+ "intercept": 0.5020113061662461,
+ "slope": 0.5582830929727016,
+ "pearson": 0.9651783370577154,
+ "pearson_p": 5.931881838829026e-32,
+ "spearman": 0.9588739574369645,
+ "rmse": 0.04286704593197057
+}
